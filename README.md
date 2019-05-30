@@ -1,20 +1,19 @@
-# Teste iCasei: Front-End
+# Teste Challenge Creative: Front-End
 Desenvolver uma aplicação HTML5
 
 ## Instruções
 - Faça um fork desse projeto para a sua conta pessoal do GitHub, ou BitBucket.
 - Siga as especificações abaixo.
 - Crie um README com as instruções para compilar, testar e rodar o projeto.
-- O link do repositório deverá ser enviado para o e-mail frontend@icasei.com.br com o título **Teste FrontEnd**
+- O link do repositório deverá ser enviado para o e-mail giancarlo@challcreative.com com o título **Teste Front-End**
 
 ## Especificações tecnicas
-- Utilizar diretrizes do [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html)
+- Utilizar diretrizes do [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 - Utilizar a [API de busca do YouTube](https://developers.google.com/youtube/v3/docs/search/list)
 - Mobile first e responsivo
-- Usar framework JS (React, Angular ou frameworks relacionados)
+- Usar framework JS (Vue, React, Angular ou frameworks relacionados)
 - Cores livres, layout livre, imagens livres
 - Gitflow
-- Testes automatizados
 
 ## Especificações funcionais
 ### Tela Inicial
@@ -52,4 +51,3 @@ wireframe desktop: https://invis.io/TKNIYA2FH3M#/314438479_D-SearchHome
 - Lógica do código
 - Uso do Git
 - Uso de componentização
-- Testes automatizados
